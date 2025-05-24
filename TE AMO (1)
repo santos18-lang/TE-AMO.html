@@ -1,0 +1,8 @@
+.love__you	{
+	color:	var(--matrix-txt);
+	justify-content:	center;
+	font-family:	"TE AMO";
+	display:	flex;
+	min-height:	100vh;
+	margin-top:	50px;
+}
